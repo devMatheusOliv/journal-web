@@ -21,7 +21,7 @@ Uma aplicação web elegante para manter um diário pessoal, construída com HTM
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/meu-diario-pessoal.git
+   git clone https://github.com/devMatheusOliv/journal-web.git
    ```
 2. Abra o arquivo `index.html` em qualquer navegador moderno
 3. Comece a adicionar suas entradas de diário!
@@ -82,8 +82,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## Contato
+## 📱 Contato
 
-Seu Nome - [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-
-Link do Projeto: [https://github.com/seu-usuario/meu-diario-pessoal](https://github.com/seu-usuario/meu-diario-pessoal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-oliveira-ba6471238/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devMatheusOliv)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusoliveira.dev@gmail.com)
